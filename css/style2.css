@@ -1,0 +1,26 @@
+body{
+	background:#000;
+}
+
+.text{
+	color:#fff;
+	font-size:16px;
+	font-family:"Lato", sans-serif;
+	text-align:center;
+}
+
+
+.gallery{
+  margin:120px;
+}
+
+.gallery img{
+  width:200px;
+  height:200px;
+  padding:5px;
+
+}
+
+.gallery img:hover{
+  transform: scale(1.1);
+}
